@@ -1,0 +1,31 @@
+[{
+		"model": "mainapp.kitchen",
+        "pk": 1,
+		"fields": {
+			"title": "Русская",
+			"description": "пельмени, доширак и все такое",
+			"country": "Россия",
+			"is_active": true
+		}
+	},
+	{
+		"model": "mainapp.kitchen",
+        "pk": 2,
+		"fields": {
+			"title": "Турецкая",
+			"description": "пахлава",
+			"country": "Турция",
+			"is_active": true
+		}
+	},
+	{
+		"model": "mainapp.kitchen",
+        "pk": 3,
+		"fields": {
+			"title": "Грузинская",
+			"description": "хинкали",
+			"country": "Грузия",
+			"is_active": true
+		}
+	}
+]
